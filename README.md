@@ -1,2 +1,5 @@
-# santander-bootcamp
-Evolução do conteúdo aprendido no Bootcamp Santander e material de apoio
+# Santander BootCamp
+
+Repositório criado para organização das aulas e evolução do bootcamp Santander Fullstack
+
+
